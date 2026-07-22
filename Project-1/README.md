@@ -1,4 +1,4 @@
-# Rule-Based AI Chatbot
+## Rule-Based AI Chatbot
 
 ## Description
 A simple Rule-Based AI Chatbot built using Python.
