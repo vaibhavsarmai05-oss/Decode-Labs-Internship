@@ -19,8 +19,6 @@ while True:
         print("Bot: Thank you for chatting! Goodbye")
         print("="*40)
         break
-    elif(cleaned_user in response):
-        print(response[cleaned_user])
-    else:
-        print("Bot: Sorry! I don't understand it")
+    reply = response.get(cleaned_user, "Bot: Sorry! I don't understand it")
+    print(reply)
     user = input("You: ")
