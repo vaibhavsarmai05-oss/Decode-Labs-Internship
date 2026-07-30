@@ -18,9 +18,9 @@ model.fit(X_train, y_train)
 y_pred = model.predict(X_test)
 
 accuracy = accuracy_score(y_test, y_pred)
-print("="*40)
+print("="*41)
 print("     Data Classification Using AI")
-print("="*40)
+print("="*41)
 print("Dataset: Iris Flower Dataset\n")
 print("Possible flower types:")
 for flower in iris.target_names:

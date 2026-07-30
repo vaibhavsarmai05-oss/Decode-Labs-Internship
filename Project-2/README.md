@@ -2,7 +2,7 @@
 
 ## Description
 
-A simple Machine Learning Classification project built using Python and Scikit-learn. It uses the Iris Flower dataset to train a Decision Tree Classifier and predict the species of a flower based on user input.
+A simple Machine Learning Classification project built using Python and Scikit-learn. It uses the Iris Flower dataset to train a Decision Tree Classifier and predict the species of a flower based on user's input.
 
 ## Features
 
