@@ -12,7 +12,7 @@ response = {
     "ai" : "Bot: Artificial Intelligence",
     "python" : "Bot: It is a programming language"
 }
-user = input("Bot: Ask me something: ")
+user = input("Bot: Ask me something:\nYou: ")
 while True:
     cleaned_user = user.lower().strip()
     if(cleaned_user == "exit" or cleaned_user == "end"):
