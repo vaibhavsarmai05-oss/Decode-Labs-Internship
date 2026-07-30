@@ -26,4 +26,5 @@ Vaibhav Sarmai
 
 ## Output
 
-![Output](c:\Users\Admin\OneDrive\Pictures\Screenshots\Screenshot (361).png)
+![Output](<img width="1920" height="1080" alt="Screenshot (361)" src="https://github.com/user-attachments/assets/a1818f22-38f7-4e95-a0b9-deb4d290ad11" />
+)
