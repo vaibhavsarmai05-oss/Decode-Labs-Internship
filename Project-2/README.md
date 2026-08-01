@@ -24,6 +24,3 @@ A simple Machine Learning Classification project built using Python and Scikit-l
 
 Vaibhav Sarmai
 
-## Output
-
-![Output](c:\Users\Admin\OneDrive\Pictures\Screenshots\Screenshot (361).png)
