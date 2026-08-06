@@ -22,11 +22,11 @@ if uploaded_file is not None:
     )
 
     faces = face_cascade.detectMultiScale(
-        gray,
-        scaleFactor=1.1,
-        minNeighbors=5,
-        minSize=(30, 30)
-    )
+    gray,
+    scaleFactor=1.05,
+    minNeighbors=3,
+    minSize=(20, 20)
+)
 
     for (x, y, w, h) in faces:
         cv2.rectangle(img, (x, y), (x + w, y + h), (0, 255, 0), 2)
